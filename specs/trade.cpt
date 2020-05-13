@@ -1,0 +1,7 @@
+概念
+定义一个交易的 概念
+# 执行 <tradeName> 交易
+* 构建交易 <tradeName>
+* 组织报文 <tradeName>
+* 发送 <tradeName>
+* 断言 <tradeName>
